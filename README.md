@@ -44,12 +44,12 @@ git clone https://github.com/GosBu/python_module_file_handling.git
 
 2. Navigate to the project folder:
 
-```cd module_file_handling```
+```cd python_module_file_handling```
 
 
 3. Run the module:
 
-```python biologia.py```
+```python module_file_handling.py```
 
 
 4. Check dane_bio/nukleotydy.txt for output.
